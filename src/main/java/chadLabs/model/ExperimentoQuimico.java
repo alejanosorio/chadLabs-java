@@ -1,4 +1,4 @@
-package gestor_experimentos.model;
+package chadLabs.model;
 
 import java.util.Collections;
 import java.util.List;

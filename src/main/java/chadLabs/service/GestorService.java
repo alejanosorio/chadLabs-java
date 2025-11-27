@@ -1,4 +1,4 @@
-package gestor_experimentos.service;
+package chadLabs.service;
 
 public interface GestorService {
     void iniciarMenu();

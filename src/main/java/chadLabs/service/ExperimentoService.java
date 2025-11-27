@@ -1,9 +1,9 @@
-package gestor_experimentos.service;
+package chadLabs.service;
 
-import gestor_experimentos.model.Experimento;
-import gestor_experimentos.model.ExperimentoFisico;
-import gestor_experimentos.model.ExperimentoQuimico;
-import gestor_experimentos.model.Investigador;
+import chadLabs.model.Experimento;
+import chadLabs.model.ExperimentoFisico;
+import chadLabs.model.ExperimentoQuimico;
+import chadLabs.model.Investigador;
 
 import java.util.List;
 

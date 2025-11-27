@@ -8,10 +8,10 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codechads.lab</groupId>
-	<artifactId>gestor-experimentos-chad</artifactId>
+	<groupId>com.chadlabs</groupId>
+	<artifactId>ChadLabs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gestor-experimentos-chad</name>
+	<name>ChadLabs</name>
 	<description> Spring Boot</description>
 	<url/>
 	<licenses>
@@ -44,10 +44,7 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
+
 		</plugins>
 	</build>
 

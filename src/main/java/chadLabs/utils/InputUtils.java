@@ -1,4 +1,4 @@
-package gestor_experimentos.utils;
+package chadLabs.utils;
 import java.util.Scanner;
 public class InputUtils {
     private static final Scanner SC = new Scanner(System.in);

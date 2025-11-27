@@ -1,7 +1,7 @@
-package gestor_experimentos.service;
-import gestor_experimentos.model.Experimento;
-import gestor_experimentos.model.Investigador;
-import gestor_experimentos.utils.CsvUtils;
+package chadLabs.service;
+import chadLabs.model.Experimento;
+import chadLabs.model.Investigador;
+import chadLabs.utils.CsvUtils;
 
 import java.util.Comparator;
 import java.util.List;

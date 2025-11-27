@@ -1,11 +1,11 @@
-package gestor_experimentos.service;
+package chadLabs.service;
 import java.util.ArrayList;
 import java.util.List;
-import gestor_experimentos.model.Experimento;
-import gestor_experimentos.model.Investigador;
-import gestor_experimentos.utils.InputUtils;
+import chadLabs.model.Experimento;
+import chadLabs.model.Investigador;
+import chadLabs.utils.InputUtils;
 
-public class  GestorImp implements GestorService{
+public class GestorMenuImp implements GestorService{
     private final InvestigadorService investigadorService = new InvestigadorImp();
     private final ExperimentoService experimentoService = new ExperimentoImp();
     private final ReporteService reporteService = new ReporteImp(experimentoService, investigadorService);

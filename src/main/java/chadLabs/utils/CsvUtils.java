@@ -1,7 +1,7 @@
-package gestor_experimentos.utils;
+package chadLabs.utils;
 
-import gestor_experimentos.model.Experimento;
-import gestor_experimentos.model.Investigador;
+import chadLabs.model.Experimento;
+import chadLabs.model.Investigador;
 
 import java.io.FileWriter;
 import java.io.IOException;

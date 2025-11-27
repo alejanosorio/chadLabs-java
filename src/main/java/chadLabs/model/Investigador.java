@@ -1,4 +1,4 @@
-package gestor_experimentos.model;
+package chadLabs.model;
 
 public class Investigador {
 

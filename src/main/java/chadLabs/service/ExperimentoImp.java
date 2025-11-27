@@ -1,6 +1,6 @@
-package gestor_experimentos.service;
+package chadLabs.service;
 
-import gestor_experimentos.model.*;
+import chadLabs.model.*;
 
 
 import java.util.ArrayList;
